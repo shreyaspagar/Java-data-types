@@ -1,0 +1,14 @@
+public class HW2{
+    public static void main(String[] args) {
+    int a  = 10;
+    float f = 1.25f;
+    short s = 1000;
+    long l = 12645;
+    double d  = 123.45;
+        System.out.println("The integer variable is " + a);
+        System.out.println("The float variable is " + f);
+        System.out.println("The short variable is " + s);
+        System.out.println("The long variable is " + l);
+        System.out.println("The double variable is " + d);
+    }
+}
